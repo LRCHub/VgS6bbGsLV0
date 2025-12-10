@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "シン・タンタカタンタンタンタンメン",
+  "base_artist": "ぼっちぼろまる",
+  "createdAt": "2025-12-10T10:11:09.869442Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "シン・タンタカタンタンタンタンメン",
+      "artist": "BotchiBoromaru",
+      "has_synced": false,
+      "path": "select/01_シン・タンタカタンタンタンタンメン_BotchiBoromaru.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "シン・タンタカタンタンタンタンメン",
+      "artist": "ぼっちぼろまる",
+      "has_synced": false,
+      "path": "select/02_シン・タンタカタンタンタンタンメン_ぼっちぼろまる.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "シン・タンタカタンタンタンタンメン (Paused)",
+      "artist": "ぼっちぼろまる",
+      "has_synced": true,
+      "path": "select/03_シン・タンタカタンタンタンタンメン_(Paused)_ぼっちぼろまる.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "シン・タンタカタンタンタンタンメン",
+      "artist": "ぼっちぼろまる",
+      "has_synced": false,
+      "path": "select/pl_01_シン・タンタカタンタンタンタンメン_ぼっちぼろまる.txt"
+    }
+  ]
+}
